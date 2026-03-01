@@ -1,8 +1,3 @@
-Here is your **GitHub README.md** version formatted cleanly in Markdown format.
-(Structured, professional, and optimized for GitHub presentation.)
-
----
-
 # 📊 COVID-19 Analytical Dashboard – Power BI Project
 
 ## 📌 Project Overview
